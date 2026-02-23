@@ -7,7 +7,7 @@ I'm a **Software Developer** with professional experience in **Java** developmen
 - 🧑‍💻 I started my journey as a **Java Developer** on **1st October 2024**, working on backend features, API development, and performance improvements.
 - 🚀 On **14th July 2025**, I transitioned into a **Software Developer (Java)** role, where I work with **Java**, **Spring Boot**, **microservices**, **REST APIs**, and **AWS**.
 
-I'm also completed my **MCA at Vellore Institute of Technology (VIT)** and have strong interests in:
+I've also completed my **MCA at Vellore Institute of Technology (VIT)** and have strong interests in:
 - Low-level design & problem-solving  
 - Backend engineering & distributed systems  
 - Generative AI (Oracle Certified – 90%)  

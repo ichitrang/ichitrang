@@ -4,7 +4,7 @@ Hello, I'm **Chitrang Kumar Jain** 👋
 
 I’m a **Backend-Focused Software Developer (Java)** building scalable systems and continuously evolving toward **distributed architecture & system design expertise**.
 
-* 🧑‍💻 I began my professional journey as a **Java Developer** on **1st October 2024**, working on backend modules, API development, debugging production issues, and improving performance.
+* 🧑‍💻 I began my professional journey as a **Ruby On Rails Developer** on **1st October 2024**, working on backend modules, API development, debugging production issues, and improving performance.
 * 🚀 On **14th July 2025**, I transitioned into a **Software Developer (Java)** role, where I actively work on **Spring Boot applications, microservices architecture, REST APIs, database optimization, and AWS-based deployments**.
 * ⚙️ I focus heavily on writing clean, production-ready code, understanding low-level behavior, and improving system efficiency rather than just building features.
 
